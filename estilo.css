@@ -1,0 +1,98 @@
+
+
+
+header{
+    padding: 10px;
+    background-color: 1px solid #673ab7;
+    color: white;
+    border-radius: 20px
+}
+
+#logo-liga{
+    position: absolute;
+    height: 120px;
+    left: 15 px;
+    top: 5 px;
+}
+
+#
+
+main{
+    clear: both;
+}
+
+.equipo{
+    border: 1px solid #673ab7;
+    border-radius: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.equipo-estadio{
+    color: #673ab7;
+    border-top: 1px solid #673ab7;
+    border-bottom: 1px solid #673ab7;
+    margin: 10px;
+
+}
+
+.competicion-logo{
+    height: 100px;
+}
+
+body{
+    font-family: 'Lato' sans-serif; 
+}
+
+#nombre-liga{
+    text-align: center;
+    color: white;
+}
+
+#jornada-actual{
+    text-align: center;
+    color: white;
+}
+
+.equipo-imagen{
+    height: 120px;
+}
+
+.equipo{
+    border: 1px solid #673ab7;
+display: inline-block;
+border-radius: 20px;
+background-color: white;
+margin: 29px;
+-webkit-box-shadow: 4px 4px 20px 0px rgba(0,0,0,0.8)
+box-shadow: 4px 4px 20px 0px #673ab7 ; 
+}
+
+.equipo-nombre{
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 20px;
+}
+
+.equipo-imagen{
+ height: 170 px;
+}
+
+.fundacion{
+    padding: 15px;
+    background-color: #673ab7;
+    color: white;
+}
+#equipo{
+    background-color: #673ab7;
+    color: white;
+}
+.equipo-boton{
+    padding: 5px;
+    background-color: #673ab7;
+    color: white;
+    margin-bottom: 3px;
+}
